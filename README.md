@@ -1,5 +1,7 @@
 # frame-storyboard
 
+![frame-storyboard 미리보기](./frame-storyboard-preview.svg)
+
 PC에서 실행하는 단일 파일 뮤직비디오 스토리보드 도구입니다. 앱 파일 안에 HTML, CSS, JavaScript가 들어 있어 별도 설치나 서버 연결 없이 Chrome 또는 Edge에서 열어 사용할 수 있습니다.
 
 ## 사용 방법
