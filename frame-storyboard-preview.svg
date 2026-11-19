@@ -23,15 +23,17 @@
   <path d="m32 43 13-19M29 35l19-6" stroke="#c3e35a" stroke-width="2"/>
   <text x="66" y="35" fill="#f2f2ec" font-size="15" font-weight="700">frame-storyboard</text>
   <text x="66" y="51" fill="#a3aa9b" font-size="10" letter-spacing="1.8">LOCAL STORYBOARD TOOL</text>
-  <text x="948" y="42" class="small">이 브라우저에 저장됨</text>
-  <rect x="1082" y="17" width="115" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1102" y="40" class="body" font-size="13">새 프로젝트</text>
-  <rect x="1206" y="17" width="120" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1223" y="40" class="body" font-size="13">프로젝트 열기</text>
-  <rect x="1335" y="17" width="118" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1352" y="40" class="body" font-size="13">ZIP으로 저장</text>
-  <rect x="1462" y="17" width="112" height="36" rx="7" fill="#c3e35a"/>
-  <text x="1477" y="40" fill="#171a12" font-size="13" font-weight="700">인쇄 · PDF</text>
+  <text x="850" y="42" class="small">이 브라우저에 저장됨</text>
+  <rect x="1006" y="17" width="105" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1021" y="40" class="body" font-size="13">새 프로젝트</text>
+  <rect x="1118" y="17" width="112" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1132" y="40" class="body" font-size="13">프로젝트 열기</text>
+  <rect x="1237" y="17" width="108" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1251" y="40" class="body" font-size="13">ZIP으로 저장</text>
+  <rect x="1352" y="17" width="106" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1364" y="40" class="body" font-size="13">현재 장면 JPG</text>
+  <rect x="1465" y="17" width="112" height="36" rx="7" fill="#c3e35a"/>
+  <text x="1480" y="40" fill="#171a12" font-size="13" font-weight="700">인쇄 · PDF</text>
 
   <rect x="0" y="68" width="255" height="832" fill="#191c18"/>
   <path d="M254.5 68V900" stroke="#343a30"/>
