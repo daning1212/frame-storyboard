@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-  <title id="title">frame-storyboard �̸�����</title>
-  <desc id="desc">��� ���, ������ �� �� ����, �ƺ� ���� ���� �г��� �����ִ� ���� ���丮���� ���α׷� ȭ�� ����</desc>
+  <title id="title">frame-storyboard 미리보기</title>
+  <desc id="desc">장면 목록, 사진이 들어간 컷 보드, 컷별 연출 편집 패널을 보여주는 로컬 스토리보드 프로그램 화면 예시</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141612"/><stop offset="1" stop-color="#0e100d"/></linearGradient>
     <linearGradient id="img1" x2="0" y2="1"><stop stop-color="#192b37"/><stop offset=".56" stop-color="#df8e54"/><stop offset="1" stop-color="#252016"/></linearGradient>
@@ -23,51 +23,51 @@
   <path d="m32 43 13-19M29 35l19-6" stroke="#c3e35a" stroke-width="2"/>
   <text x="66" y="35" fill="#f2f2ec" font-size="15" font-weight="700">frame-storyboard</text>
   <text x="66" y="51" fill="#a3aa9b" font-size="10" letter-spacing="1.8">LOCAL STORYBOARD TOOL</text>
-  <text x="948" y="42" class="small">�� �������� �����</text>
+  <text x="948" y="42" class="small">이 브라우저에 저장됨</text>
   <rect x="1082" y="17" width="115" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1102" y="40" class="body" font-size="13">�� ������Ʈ</text>
+  <text x="1102" y="40" class="body" font-size="13">새 프로젝트</text>
   <rect x="1206" y="17" width="120" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1223" y="40" class="body" font-size="13">������Ʈ ����</text>
+  <text x="1223" y="40" class="body" font-size="13">프로젝트 열기</text>
   <rect x="1335" y="17" width="118" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1352" y="40" class="body" font-size="13">ZIP���� ����</text>
+  <text x="1352" y="40" class="body" font-size="13">ZIP으로 저장</text>
   <rect x="1462" y="17" width="112" height="36" rx="7" fill="#c3e35a"/>
-  <text x="1477" y="40" fill="#171a12" font-size="13" font-weight="700">�μ� �� PDF</text>
+  <text x="1477" y="40" fill="#171a12" font-size="13" font-weight="700">인쇄 · PDF</text>
 
   <rect x="0" y="68" width="255" height="832" fill="#191c18"/>
   <path d="M254.5 68V900" stroke="#343a30"/>
-  <text x="24" y="106" class="label">������Ʈ</text>
+  <text x="24" y="106" class="label">프로젝트</text>
   <rect x="20" y="117" width="214" height="42" rx="7" fill="#111310" stroke="#343a30"/>
-  <text x="32" y="143" class="body">�������� ��Ƽ</text>
-  <text x="24" y="187" class="label">ȭ�� ����</text>
+  <text x="32" y="143" class="body">뮤직비디오 콘티</text>
+  <text x="24" y="187" class="label">화면 비율</text>
   <rect x="20" y="198" width="214" height="41" rx="7" fill="#111310" stroke="#343a30"/>
-  <text x="32" y="223" class="body">16:9 ����</text>
-  <text x="20" y="282" fill="#f2f2ec" font-size="14" font-weight="700">��� ����</text>
+  <text x="32" y="223" class="body">16:9 가로</text>
+  <text x="20" y="282" fill="#f2f2ec" font-size="14" font-weight="700">장면 보드</text>
   <rect x="150" y="259" width="84" height="32" rx="6" fill="#20241e" stroke="#343a30"/>
-  <text x="163" y="280" class="small">�� ���</text>
+  <text x="163" y="280" class="small">＋ 장면</text>
   <rect x="13" y="306" width="228" height="61" rx="8" fill="#2a3022" stroke="#596644"/>
-  <text x="27" y="331" fill="#f2f2ec" font-size="14" font-weight="700">������</text>
-  <text x="27" y="350" class="small">��� 01</text>
-  <text x="207" y="339" class="small">3��</text>
+  <text x="27" y="331" fill="#f2f2ec" font-size="14" font-weight="700">오프닝</text>
+  <text x="27" y="350" class="small">장면 01</text>
+  <text x="207" y="339" class="small">3컷</text>
   <rect x="13" y="374" width="228" height="61" rx="8" fill="#191c18"/>
-  <text x="27" y="399" fill="#e9eadf" font-size="14">������ ����</text>
-  <text x="27" y="418" class="small">��� 02</text>
-  <text x="207" y="407" class="small">4��</text>
+  <text x="27" y="399" fill="#e9eadf" font-size="14">도시의 새벽</text>
+  <text x="27" y="418" class="small">장면 02</text>
+  <text x="207" y="407" class="small">4컷</text>
   <rect x="13" y="442" width="228" height="61" rx="8" fill="#191c18"/>
-  <text x="27" y="467" fill="#e9eadf" font-size="14">������ ���</text>
-  <text x="27" y="486" class="small">��� 03</text>
-  <text x="207" y="475" class="small">2��</text>
-  <text x="21" y="844" class="small">ZIP���� �����ϸ�</text>
-  <text x="21" y="863" class="small">������Ʈ�� ������ �Բ�</text>
-  <text x="21" y="882" class="small">����� �� �ֽ��ϴ�.</text>
+  <text x="27" y="467" fill="#e9eadf" font-size="14">마지막 장면</text>
+  <text x="27" y="486" class="small">장면 03</text>
+  <text x="207" y="475" class="small">2컷</text>
+  <text x="21" y="844" class="small">ZIP으로 저장하면</text>
+  <text x="21" y="863" class="small">프로젝트와 사진을 함께</text>
+  <text x="21" y="882" class="small">백업할 수 있습니다.</text>
 
   <rect x="255" y="68" width="1023" height="832" fill="#111310"/>
   <text x="294" y="113" fill="#c3e35a" font-size="11" font-weight="700" letter-spacing="2">STORYBOARD / 01</text>
-  <text x="294" y="154" fill="#f2f2ec" font-size="34" font-weight="700">������</text>
-  <text x="294" y="181" class="small">�� 3��</text>
+  <text x="294" y="154" fill="#f2f2ec" font-size="34" font-weight="700">오프닝</text>
+  <text x="294" y="181" class="small">컷 3개</text>
   <rect x="1085" y="131" width="88" height="37" rx="7" fill="#20241e" stroke="#343a30"/>
-  <text x="1101" y="155" class="small">��� ����</text>
+  <text x="1101" y="155" class="small">장면 삭제</text>
   <rect x="1181" y="131" width="96" height="37" rx="7" fill="#c3e35a"/>
-  <text x="1197" y="155" fill="#171a12" font-size="13" font-weight="700">�� �� �߰�</text>
+  <text x="1197" y="155" fill="#171a12" font-size="13" font-weight="700">＋ 컷 추가</text>
 
   <g>
     <rect x="316" y="275" width="358" height="332" rx="12" fill="#191c18" stroke="#c3e35a" stroke-width="2"/>
@@ -81,12 +81,12 @@
     </g>
     <rect x="344" y="303" width="62" height="25" rx="5" fill="#111310dd"/>
     <text x="356" y="320" fill="#f2f2ec" font-size="11">CUT 01</text>
-    <text x="334" y="508" fill="#f2f2ec" font-size="15" font-weight="700">������ ù ���</text>
-    <text x="334" y="534" class="small">���� �ʸӷ� �ذ� ��������.</text>
-    <text x="334" y="555" class="small">�ι��� ȭ�� ������ õõ�� �ɾ�´�.</text>
+    <text x="334" y="508" fill="#f2f2ec" font-size="15" font-weight="700">새벽의 첫 장면</text>
+    <text x="334" y="534" class="small">산등성이 너머로 해가 떠오른다.</text>
+    <text x="334" y="555" class="small">인물은 화면 안으로 천천히 걸어온다.</text>
     <path d="M334 577H656" stroke="#343a30"/>
-    <text x="334" y="594" class="small">���̵� �� 5��</text>
-    <text x="580" y="594" class="small">�衡�顡��</text>
+    <text x="334" y="594" class="small">와이드 · 5초</text>
+    <text x="580" y="594" class="small">↑　↓　×</text>
   </g>
   <g>
     <rect x="661" y="275" width="358" height="332" rx="12" fill="#191c18" stroke="#343a30"/>
@@ -99,12 +99,12 @@
     </g>
     <rect x="689" y="303" width="62" height="25" rx="5" fill="#111310dd"/>
     <text x="701" y="320" fill="#f2f2ec" font-size="11">CUT 02</text>
-    <text x="679" y="508" fill="#f2f2ec" font-size="15" font-weight="700">������ �ȴ� �ι�</text>
-    <text x="679" y="534" class="small">������ ���̷� ���� ������.</text>
-    <text x="679" y="555" class="small">ī�޶�� �ڿ��� �ε巴�� ���󰣴�.</text>
+    <text x="679" y="508" fill="#f2f2ec" font-size="15" font-weight="700">숲길을 걷는 인물</text>
+    <text x="679" y="534" class="small">나뭇잎 사이로 빛이 스며든다.</text>
+    <text x="679" y="555" class="small">카메라는 뒤에서 부드럽게 따라간다.</text>
     <path d="M679 577H1001" stroke="#343a30"/>
-    <text x="679" y="594" class="small">Ǯ�� �� 8��</text>
-    <text x="925" y="594" class="small">�衡�顡��</text>
+    <text x="679" y="594" class="small">풀샷 · 8초</text>
+    <text x="925" y="594" class="small">↑　↓　×</text>
   </g>
   <g>
     <rect x="1006" y="275" width="358" height="332" rx="12" fill="#191c18" stroke="#343a30"/>
@@ -118,39 +118,38 @@
     </g>
     <rect x="1034" y="303" width="62" height="25" rx="5" fill="#111310dd"/>
     <text x="1046" y="320" fill="#f2f2ec" font-size="11">CUT 03</text>
-    <text x="1024" y="508" fill="#f2f2ec" font-size="15" font-weight="700">�Һ��� ������ �Ÿ�</text>
-    <text x="1024" y="534" class="small">������ �׿��� �ϳ��� �����.</text>
-    <text x="1024" y="555" class="small">������ Ŀ���� ����� ��ȯ�Ѵ�.</text>
+    <text x="1024" y="508" fill="#f2f2ec" font-size="15" font-weight="700">불빛이 켜지는 거리</text>
+    <text x="1024" y="534" class="small">도시의 네온이 하나씩 깨어난다.</text>
+    <text x="1024" y="555" class="small">음악이 커지며 장면을 전환한다.</text>
     <path d="M1024 577H1346" stroke="#343a30"/>
-    <text x="1024" y="594" class="small">�̵�� �� 5��</text>
-    <text x="1270" y="594" class="small">�衡�顡��</text>
+    <text x="1024" y="594" class="small">미디엄 · 5초</text>
+    <text x="1270" y="594" class="small">↑　↓　×</text>
   </g>
   <rect x="316" y="631" width="1048" height="70" rx="10" fill="#191c18" stroke="#343a30"/>
   <text x="337" y="659" class="label">NEXT CUT</text>
-  <text x="337" y="682" class="small">���� �����ϸ� ����, �׼�, �� ũ��, ī�޶�, �Ҹ�, ���� ������Ʈ�� �޸� �����մϴ�.</text>
+  <text x="337" y="682" class="small">컷을 선택하면 사진, 액션, 샷 크기, 카메라, 소리, 영상 프롬프트와 메모를 편집합니다.</text>
   <rect x="1280" y="624" width="320" height="276" fill="#191c18"/>
   <path d="M1279.5 68V900" stroke="#343a30"/>
-  <text x="1302" y="108" fill="#f2f2ec" font-size="14" font-weight="700">�� ����</text>
+  <text x="1302" y="108" fill="#f2f2ec" font-size="14" font-weight="700">컷 정보</text>
   <rect x="1302" y="124" width="276" height="155" rx="8" fill="#111310" stroke="#343a30"/>
   <rect x="1302" y="124" width="276" height="155" rx="8" fill="url(#img1)" opacity=".75"/>
   <path d="M1302 244 1365 205 1425 239 1488 193 1578 242v37h-276z" fill="#171b17"/>
   <rect x="1302" y="294" width="133" height="34" rx="6" fill="#20241e" stroke="#343a30"/>
-  <text x="1324" y="316" class="small">���� ��ü</text>
+  <text x="1324" y="316" class="small">사진 교체</text>
   <rect x="1443" y="294" width="135" height="34" rx="6" fill="#20241e" stroke="#343a30"/>
-  <text x="1466" y="316" class="small">���� ����</text>
-  <text x="1302" y="360" class="label">ȭ�鿡�� �Ͼ�� ��</text>
+  <text x="1466" y="316" class="small">사진 빼기</text>
+  <text x="1302" y="360" class="label">화면에서 일어나는 일</text>
   <rect x="1302" y="372" width="276" height="72" rx="6" fill="#111310" stroke="#343a30"/>
-  <text x="1313" y="397" class="small">�ι��� ���̸� �Ѿ�</text>
-  <text x="1313" y="416" class="small">õõ�� ȭ�� ������ ���´�.</text>
-  <text x="1302" y="471" class="label">ī�޶� �� ������</text>
+  <text x="1313" y="397" class="small">인물이 산등성이를 넘어</text>
+  <text x="1313" y="416" class="small">천천히 화면 안으로 들어온다.</text>
+  <text x="1302" y="471" class="label">카메라 · 움직임</text>
   <rect x="1302" y="483" width="276" height="40" rx="6" fill="#111310" stroke="#343a30"/>
-  <text x="1313" y="508" class="small">���� ���̵�, ������ �� ��</text>
-  <text x="1302" y="551" class="label">���� ������Ʈ</text>
+  <text x="1313" y="508" class="small">고정 와이드, 서서히 줌 인</text>
+  <text x="1302" y="551" class="label">영상 프롬프트</text>
   <rect x="1302" y="563" width="276" height="80" rx="6" fill="#111310" stroke="#343a30"/>
-  <text x="1313" y="588" class="small">�� �ߴ� ����, �Ƿ翧 �ι�,</text>
-  <text x="1313" y="607" class="small">�ó׸�ƽ�� ������ �ε巯�� �̵���</text>
-  <text x="1302" y="677" class="label">�޸�</text>
+  <text x="1313" y="588" class="small">해 뜨는 산등성이, 실루엣 인물,</text>
+  <text x="1313" y="607" class="small">시네마틱한 역광과 부드러운 이동…</text>
+  <text x="1302" y="677" class="label">메모</text>
   <rect x="1302" y="689" width="276" height="65" rx="6" fill="#111310" stroke="#343a30"/>
-  <text x="1313" y="714" class="small">��� ��ȯ �� 1�� ����</text>
+  <text x="1313" y="714" class="small">장면 전환 전 1초 여백</text>
 </svg>
-
