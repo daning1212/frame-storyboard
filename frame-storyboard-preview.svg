@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">frame-storyboard �̸�����</title>
+  <desc id="desc">��� ���, ������ �� �� ����, �ƺ� ���� ���� �г��� �����ִ� ���� ���丮���� ���α׷� ȭ�� ����</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141612"/><stop offset="1" stop-color="#0e100d"/></linearGradient>
+    <linearGradient id="img1" x2="0" y2="1"><stop stop-color="#192b37"/><stop offset=".56" stop-color="#df8e54"/><stop offset="1" stop-color="#252016"/></linearGradient>
+    <linearGradient id="img2" x2="0" y2="1"><stop stop-color="#18263b"/><stop offset=".6" stop-color="#778b86"/><stop offset="1" stop-color="#1e2921"/></linearGradient>
+    <linearGradient id="img3" x2="0" y2="1"><stop stop-color="#293245"/><stop offset=".58" stop-color="#a75c48"/><stop offset="1" stop-color="#1a1b20"/></linearGradient>
+    <linearGradient id="light" x2="0" y2="1"><stop stop-color="#f4c989" stop-opacity=".78"/><stop offset="1" stop-color="#f4c989" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip1"><rect x="334" y="293" width="322" height="181" rx="7"/></clipPath>
+    <clipPath id="clip2"><rect x="679" y="293" width="322" height="181" rx="7"/></clipPath>
+    <clipPath id="clip3"><rect x="1024" y="293" width="322" height="181" rx="7"/></clipPath>
+    <style>
+      text{font-family:Inter,"Noto Sans KR","Malgun Gothic",sans-serif}
+      .muted{fill:#a3aa9b}.label{fill:#a3aa9b;font-size:13px;font-weight:700;letter-spacing:1.4px}
+      .body{fill:#e9eadf;font-size:15px}.small{fill:#a3aa9b;font-size:12px}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1600" height="68" fill="#141612"/>
+  <path d="M0 67.5H1600" stroke="#343a30"/>
+  <rect x="24" y="19" width="29" height="29" fill="none" stroke="#c3e35a" stroke-width="2"/>
+  <path d="m32 43 13-19M29 35l19-6" stroke="#c3e35a" stroke-width="2"/>
+  <text x="66" y="35" fill="#f2f2ec" font-size="15" font-weight="700">frame-storyboard</text>
+  <text x="66" y="51" fill="#a3aa9b" font-size="10" letter-spacing="1.8">LOCAL STORYBOARD TOOL</text>
+  <text x="948" y="42" class="small">�� �������� �����</text>
+  <rect x="1082" y="17" width="115" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1102" y="40" class="body" font-size="13">�� ������Ʈ</text>
+  <rect x="1206" y="17" width="120" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1223" y="40" class="body" font-size="13">������Ʈ ����</text>
+  <rect x="1335" y="17" width="118" height="36" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1352" y="40" class="body" font-size="13">ZIP���� ����</text>
+  <rect x="1462" y="17" width="112" height="36" rx="7" fill="#c3e35a"/>
+  <text x="1477" y="40" fill="#171a12" font-size="13" font-weight="700">�μ� �� PDF</text>
+
+  <rect x="0" y="68" width="255" height="832" fill="#191c18"/>
+  <path d="M254.5 68V900" stroke="#343a30"/>
+  <text x="24" y="106" class="label">������Ʈ</text>
+  <rect x="20" y="117" width="214" height="42" rx="7" fill="#111310" stroke="#343a30"/>
+  <text x="32" y="143" class="body">�������� ��Ƽ</text>
+  <text x="24" y="187" class="label">ȭ�� ����</text>
+  <rect x="20" y="198" width="214" height="41" rx="7" fill="#111310" stroke="#343a30"/>
+  <text x="32" y="223" class="body">16:9 ����</text>
+  <text x="20" y="282" fill="#f2f2ec" font-size="14" font-weight="700">��� ����</text>
+  <rect x="150" y="259" width="84" height="32" rx="6" fill="#20241e" stroke="#343a30"/>
+  <text x="163" y="280" class="small">�� ���</text>
+  <rect x="13" y="306" width="228" height="61" rx="8" fill="#2a3022" stroke="#596644"/>
+  <text x="27" y="331" fill="#f2f2ec" font-size="14" font-weight="700">������</text>
+  <text x="27" y="350" class="small">��� 01</text>
+  <text x="207" y="339" class="small">3��</text>
+  <rect x="13" y="374" width="228" height="61" rx="8" fill="#191c18"/>
+  <text x="27" y="399" fill="#e9eadf" font-size="14">������ ����</text>
+  <text x="27" y="418" class="small">��� 02</text>
+  <text x="207" y="407" class="small">4��</text>
+  <rect x="13" y="442" width="228" height="61" rx="8" fill="#191c18"/>
+  <text x="27" y="467" fill="#e9eadf" font-size="14">������ ���</text>
+  <text x="27" y="486" class="small">��� 03</text>
+  <text x="207" y="475" class="small">2��</text>
+  <text x="21" y="844" class="small">ZIP���� �����ϸ�</text>
+  <text x="21" y="863" class="small">������Ʈ�� ������ �Բ�</text>
+  <text x="21" y="882" class="small">����� �� �ֽ��ϴ�.</text>
+
+  <rect x="255" y="68" width="1023" height="832" fill="#111310"/>
+  <text x="294" y="113" fill="#c3e35a" font-size="11" font-weight="700" letter-spacing="2">STORYBOARD / 01</text>
+  <text x="294" y="154" fill="#f2f2ec" font-size="34" font-weight="700">������</text>
+  <text x="294" y="181" class="small">�� 3��</text>
+  <rect x="1085" y="131" width="88" height="37" rx="7" fill="#20241e" stroke="#343a30"/>
+  <text x="1101" y="155" class="small">��� ����</text>
+  <rect x="1181" y="131" width="96" height="37" rx="7" fill="#c3e35a"/>
+  <text x="1197" y="155" fill="#171a12" font-size="13" font-weight="700">�� �� �߰�</text>
+
+  <g>
+    <rect x="316" y="275" width="358" height="332" rx="12" fill="#191c18" stroke="#c3e35a" stroke-width="2"/>
+    <g clip-path="url(#clip1)">
+      <rect x="334" y="293" width="322" height="181" fill="url(#img1)"/>
+      <circle cx="571" cy="334" r="30" fill="#f2c681" opacity=".8"/>
+      <path d="M334 431 420 369 470 414 520 356 590 425 656 380 656 474 334 474Z" fill="#252c2a"/>
+      <path d="M334 448 405 405 474 443 552 399 656 443 656 474 334 474Z" fill="#141916"/>
+      <path d="M493 471v-45h10v45m-16-25h42l-10 11h-23Z" fill="#121512"/>
+      <rect x="334" y="293" width="322" height="181" fill="url(#light)" opacity=".22"/>
+    </g>
+    <rect x="344" y="303" width="62" height="25" rx="5" fill="#111310dd"/>
+    <text x="356" y="320" fill="#f2f2ec" font-size="11">CUT 01</text>
+    <text x="334" y="508" fill="#f2f2ec" font-size="15" font-weight="700">������ ù ���</text>
+    <text x="334" y="534" class="small">���� �ʸӷ� �ذ� ��������.</text>
+    <text x="334" y="555" class="small">�ι��� ȭ�� ������ õõ�� �ɾ�´�.</text>
+    <path d="M334 577H656" stroke="#343a30"/>
+    <text x="334" y="594" class="small">���̵� �� 5��</text>
+    <text x="580" y="594" class="small">�衡�顡��</text>
+  </g>
+  <g>
+    <rect x="661" y="275" width="358" height="332" rx="12" fill="#191c18" stroke="#343a30"/>
+    <g clip-path="url(#clip2)">
+      <rect x="679" y="293" width="322" height="181" fill="url(#img2)"/>
+      <circle cx="754" cy="337" r="35" fill="#e5d7a8" opacity=".72"/>
+      <path d="M679 412 733 380 787 409 829 373 900 414 944 382 1001 407 1001 474 679 474Z" fill="#34463b"/>
+      <path d="M679 441 752 414 810 443 893 408 1001 447 1001 474 679 474Z" fill="#18231d"/>
+      <path d="M854 474v-37h9v37m-22-28h47l-13 12h-23Z" fill="#121612"/>
+    </g>
+    <rect x="689" y="303" width="62" height="25" rx="5" fill="#111310dd"/>
+    <text x="701" y="320" fill="#f2f2ec" font-size="11">CUT 02</text>
+    <text x="679" y="508" fill="#f2f2ec" font-size="15" font-weight="700">������ �ȴ� �ι�</text>
+    <text x="679" y="534" class="small">������ ���̷� ���� ������.</text>
+    <text x="679" y="555" class="small">ī�޶�� �ڿ��� �ε巴�� ���󰣴�.</text>
+    <path d="M679 577H1001" stroke="#343a30"/>
+    <text x="679" y="594" class="small">Ǯ�� �� 8��</text>
+    <text x="925" y="594" class="small">�衡�顡��</text>
+  </g>
+  <g>
+    <rect x="1006" y="275" width="358" height="332" rx="12" fill="#191c18" stroke="#343a30"/>
+    <g clip-path="url(#clip3)">
+      <rect x="1024" y="293" width="322" height="181" fill="url(#img3)"/>
+      <circle cx="1272" cy="329" r="21" fill="#f2bd74" opacity=".8"/>
+      <path d="M1024 398h322v76h-322z" fill="#22232a"/>
+      <path d="M1037 405h42v69h-42zm59-30h58v99h-58zm77 13h49v86h-49zm66-22h52v108h-52z" fill="#323843"/>
+      <path d="M1096 389h58v12h-58zm66 15h49v8h-49zm66-28h52v10h-52z" fill="#e1a36c" opacity=".65"/>
+      <path d="M1178 474v-40h12v40m-13-23h40l-11 12h-20Z" fill="#101217"/>
+    </g>
+    <rect x="1034" y="303" width="62" height="25" rx="5" fill="#111310dd"/>
+    <text x="1046" y="320" fill="#f2f2ec" font-size="11">CUT 03</text>
+    <text x="1024" y="508" fill="#f2f2ec" font-size="15" font-weight="700">�Һ��� ������ �Ÿ�</text>
+    <text x="1024" y="534" class="small">������ �׿��� �ϳ��� �����.</text>
+    <text x="1024" y="555" class="small">������ Ŀ���� ����� ��ȯ�Ѵ�.</text>
+    <path d="M1024 577H1346" stroke="#343a30"/>
+    <text x="1024" y="594" class="small">�̵�� �� 5��</text>
+    <text x="1270" y="594" class="small">�衡�顡��</text>
+  </g>
+  <rect x="316" y="631" width="1048" height="70" rx="10" fill="#191c18" stroke="#343a30"/>
+  <text x="337" y="659" class="label">NEXT CUT</text>
+  <text x="337" y="682" class="small">���� �����ϸ� ����, �׼�, �� ũ��, ī�޶�, �Ҹ�, ���� ������Ʈ�� �޸� �����մϴ�.</text>
+  <rect x="1280" y="624" width="320" height="276" fill="#191c18"/>
+  <path d="M1279.5 68V900" stroke="#343a30"/>
+  <text x="1302" y="108" fill="#f2f2ec" font-size="14" font-weight="700">�� ����</text>
+  <rect x="1302" y="124" width="276" height="155" rx="8" fill="#111310" stroke="#343a30"/>
+  <rect x="1302" y="124" width="276" height="155" rx="8" fill="url(#img1)" opacity=".75"/>
+  <path d="M1302 244 1365 205 1425 239 1488 193 1578 242v37h-276z" fill="#171b17"/>
+  <rect x="1302" y="294" width="133" height="34" rx="6" fill="#20241e" stroke="#343a30"/>
+  <text x="1324" y="316" class="small">���� ��ü</text>
+  <rect x="1443" y="294" width="135" height="34" rx="6" fill="#20241e" stroke="#343a30"/>
+  <text x="1466" y="316" class="small">���� ����</text>
+  <text x="1302" y="360" class="label">ȭ�鿡�� �Ͼ�� ��</text>
+  <rect x="1302" y="372" width="276" height="72" rx="6" fill="#111310" stroke="#343a30"/>
+  <text x="1313" y="397" class="small">�ι��� ���̸� �Ѿ�</text>
+  <text x="1313" y="416" class="small">õõ�� ȭ�� ������ ���´�.</text>
+  <text x="1302" y="471" class="label">ī�޶� �� ������</text>
+  <rect x="1302" y="483" width="276" height="40" rx="6" fill="#111310" stroke="#343a30"/>
+  <text x="1313" y="508" class="small">���� ���̵�, ������ �� ��</text>
+  <text x="1302" y="551" class="label">���� ������Ʈ</text>
+  <rect x="1302" y="563" width="276" height="80" rx="6" fill="#111310" stroke="#343a30"/>
+  <text x="1313" y="588" class="small">�� �ߴ� ����, �Ƿ翧 �ι�,</text>
+  <text x="1313" y="607" class="small">�ó׸�ƽ�� ������ �ε巯�� �̵���</text>
+  <text x="1302" y="677" class="label">�޸�</text>
+  <rect x="1302" y="689" width="276" height="65" rx="6" fill="#111310" stroke="#343a30"/>
+  <text x="1313" y="714" class="small">��� ��ȯ �� 1�� ����</text>
+</svg>
+
